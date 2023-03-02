@@ -1,5 +1,5 @@
 /*Paleta de colores modo claro
-color-2
+color-1
 #048A74
 color-3
 #6bada9
@@ -27,11 +27,11 @@ darkgray
 :root{
     font-size: 15px;
     font-family: 'Roboto', 'Open Sans', sans-serif;
-    --color-1: #369fad;
-    --color-2: #933fb4;
-    --color-3: #54C6EB;
-    --color-pagina: rgb(0, 0, 0);
-    --color-texto: rgb(255, 255, 255);
+    --color-1: #29666e;
+    --color-2: #ffffff;
+    --color-3: #73b4ca;
+    --color-pagina: rgb(199, 236, 245);
+    --color-texto: rgb(10, 10, 10);
     color: var(--color-texto);
 }
 
